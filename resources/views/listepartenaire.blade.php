@@ -83,7 +83,7 @@
       </div>
 
   <footer class="main-footer">
-    <strong>Copyright &copy; 2014-2021 <a href="#">marhouane diallo</a>.</strong>
+  <strong>Copyright &copy; 2024-2025 <a href="#">Alpha Yaya Diallo</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0

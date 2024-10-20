@@ -108,7 +108,7 @@
 
 
   <footer class="main-footer">
-    <strong>Copyright &copy; 2014-2021 <a href="#">marhouane diallo</a>.</strong>
+  <strong>Copyright &copy; 2024-2025 <a href="#">Alpha Yaya Diallo</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0
@@ -129,7 +129,7 @@
 <script src="{{asset('plugins/jquery/jquery.min.js')}}"></script>
 <script src="{{asset('plugins/jquery-ui/jquery-ui.min.js')}}"></script>
 <script src="{{asset('js/pages/dashboard.js')}}"></script>
-<script src="{{asset('js/demo.js')}}"></script>
+
 <script src="{{asset('js/adminlte.js')}}"></script>
 <script src="{{asset('plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js')}}"></script>
 <script src="{{asset('plugins/summernote/summernote-bs4.min.js')}}"></script>
